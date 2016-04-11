@@ -25,7 +25,7 @@ Yes. Yes it often is. You might prefer to try the following.
 
 ## annotations
 
-You might not feel inclined to write something for scratch, but you still might like to contribute. I think feedback and commenting can be done effectively using the [hypothes.is plugin for chrome](https://hypothes.is/). Install that plugin. Then, with the plugin active, you can select text on any page and leave an annotation that other users of the plugin can see. To keep our annotations out of the main stream of annotations coming in from all users of the plugin, please join [this hypothes.is group](https://hypothes.is/groups/nomp1bLp/dap-sg). 
+You might not feel inclined to write something for scratch, but you still might like to contribute. I think feedback and commenting can be done effectively using the [hypothes.is plugin for chrome](https://hypothes.is/). Install that plugin. Then, with the plugin active, you can select text on any page and leave an annotation that other users of the plugin can see. To keep our annotations out of the main stream of annotations coming in from all users of the plugin, please join [this hypothes.is group](https://hypothes.is/groups/nomp1bLp/dap-sg). Then, when you go to make an annotation, make sure the drop-down menu has 'DAP-sg' selected (instead of 'PUBLIC'), and then under your comment, the post button says 'post to DAP-sg'. Feel free to use descriptive tags in your annotations, too.
 
 Alternatively, or perhaps in addition to, you can click on the 'issues' button at the top of the github page and make a new issue (you need to have a github account, of course, to do this).
 
