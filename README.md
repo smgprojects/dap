@@ -14,6 +14,15 @@ I have no intention of writing a digital archaeology primer on my own. Rather, I
 
 Slowly, we'd build up a repository of materials. Periodically, I'll grab all the materials and tidy everything up to make pretty epub, html, and pdf versions that may be put on syllabi, printed out, used in class, and so on.
 
+### but writing in github is a right pain in the arse
+
+Yes. Yes it often is. You might prefer to try the following. 
+
+1. Sign up for a github account
+2. Take a copy of this repo by clicking the 'fork' button.
+3. Go to [prose.io](http://prose.io). It will ask you to 'authenticate on github'. Say yes. It will then show you a list of repositories you have access to - including this one, since you've already forked it. Then you can just click on the folder you want to work in, and use Prose's WYSIWYG editor to write and save to your repository. When you want to fold your changes into this main repository, just send me an email or tweet and I'll talk you through it.
+4. There are other options - [dillinger](http://dillinger.io/) (use the 'import from' and then 'save to' options), [stackedit](https://stackedit.io/), [classier](http://classeur.io/) and no doubt many more. Of these options, Prose is probably is the gentlest.
+
 ## annotations
 
 You might not feel inclined to write something for scratch, but you still might like to contribute. I think feedback and commenting can be done effectively using the [hypothes.is plugin for chrome](https://hypothes.is/). Install that plugin. Then, with the plugin active, you can select text on any page and leave an annotation that other users of the plugin can see. To keep our annotations out of the main stream of annotations coming in from all users of the plugin, please join [this hypothes.is group](https://hypothes.is/groups/nomp1bLp/dap-sg). 
