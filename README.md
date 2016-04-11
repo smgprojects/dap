@@ -18,6 +18,8 @@ Slowly, we'd build up a repository of materials. Periodically, I'll grab all the
 
 You might not feel inclined to write something for scratch, but you still might like to contribute. I think feedback and commenting can be done effectively using the [hypothes.is plugin for chrome](https://hypothes.is/). Install that plugin. Then, with the plugin active, you can select text on any page and leave an annotation that other users of the plugin can see. To keep our annotations out of the main stream of annotations coming in from all users of the plugin, please join [this hypothes.is group](https://hypothes.is/groups/nomp1bLp/dap-sg). 
 
+Alternatively, or perhaps in addition to, you can click on the 'issues' button at the top of the github page and make a new issue (you need to have a github account, of course, to do this).
+
 ## standards of conduct
 
 We're professionals, folks. Let's keep all comments professional and generous: be as free in indicating what works well or what's a great idea, as well as in finding errors or places where things could be better.
